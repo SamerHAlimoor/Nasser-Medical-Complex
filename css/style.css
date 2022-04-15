@@ -1,0 +1,144 @@
+*{
+    font-family:cairo ;
+    box-sizing: border-box;
+    direction: rtl;
+}
+.logo{
+    text-align: center;
+    margin: 40px 0;
+}
+.logo img{
+    width: 100px;
+}
+.logo h2{
+    font-size: 30px;
+    font-weight: 500;
+    color: #6f08f0;
+}
+.book{
+    text-align: center
+}
+.book p{
+    font-size: 24px;
+}
+.book input{
+    width: 50%;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.book input[type="submit"]{
+    font-size: 16px;
+    color: #fff;
+    background: #6f08f0;
+    border: none;
+}
+.book input:hover[type="submit"]{
+    font-size: 17px;
+    color: #fc8600;
+    
+    border: none;
+}
+table{
+    width: 100%;
+    text-align: center;
+    border-collapse: 1;
+    font-size: 20px;
+}
+th{
+    background: #6f08f0;
+    color: #fff;
+    padding: 5px 0;
+}
+td{
+    background: rgb(0, 136, 255);;
+    color: #fff;
+    padding: 5px 0;
+}
+
+
+.book input[type="button"]{
+    font-size: 16px;
+    color: #fff;
+   background: #FFAB4C;
+    border: none;
+    
+    
+}
+
+.book input:hover[type="button"]{
+    font-size: 17px;
+    color: #6f08f0;
+   
+    border: none;
+    
+}
+
+
+
+
+
+
+
+.book input:hover[type="email"]{
+   
+    color: #fc8600;
+    border-color: rgb(0, 136, 255);
+   
+}
+
+.book input:hover[type="text"]{
+   
+    color: #fc8600;
+    border-color: rgb(0, 136, 255);
+    
+   
+}
+
+.book input:hover[type="date"]{
+   
+    color: #fc8600;
+    border-color: rgb(0, 136, 255);
+   
+}
+
+
+
+
+
+.logo2{
+    text-align: center;
+    margin: 40px 0;
+}
+.logo2 img{
+    width: 100px;
+}
+.logo2 h2{
+    font-size: 30px;
+    font-weight: 500;
+    color: #6f08f0;
+}
+
+.book input:hover[type="password"]{
+   
+    color: #fc8600;
+    border-color: rgb(0, 136, 255);
+   
+}
+
+
+
+
+
+
+.logo3{
+    text-align: center;
+    margin: 40px 0;
+}
+.logo3 img{
+    width: 100px;
+}
+.logo3 h2{
+    font-size: 30px;
+    font-weight: 500;
+    color: #6f08f0;
+}
